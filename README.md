@@ -1,3 +1,3 @@
 # gitdemo
 demo editing
-editing repository in this file
+ repository editing in this file
